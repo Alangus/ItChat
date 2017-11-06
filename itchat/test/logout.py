@@ -1,0 +1,3 @@
+import itchat
+
+itchat.logout()
